@@ -1,1 +1,0 @@
-It's index 3 rather than the 3rd character!
