@@ -41,7 +41,8 @@ class Names {
 		       middle.indexOf("gerald"));
     System.out.println("The index of \"gerald\" within " + last + " is " +
 		       last.indexOf("gerald"));
-
+    //yiming
+    //yanyan
     System.out.println();
   }
 }
